@@ -3,6 +3,7 @@ import './App.css';
 import Board from './components/Board';
 import QuestionCard from './components/QuestionCard';
 import questionsData from './questions.json';
+import ScoreBar from './components/ScoreBar';
 
 function App() {
   const [usedCards, setUsedCards] = useState(new Set());
@@ -41,6 +42,7 @@ function App() {
           onBack={handleBackToBoard}
         />
       )}
+      <ScoreBar />
     </div>
   );
 }

@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "name": "Kontoret",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Er det lov til å drikke på kontoret?",
+          "answer": "Ja"
+        },
+        {
+          "value": 200,
+          "question": "Hvilken komité har ansvar for kontoret?",
+          "answer": "Trikom"
+        },
+        {
+          "value": 300,
+          "question": "Hva er omsetningsmålet til kiosken?",
+          "answer": "0-profitt!"
+        },
+        {
+          "value": 400,
+          "question": "Det er to ting som ikke er lov å gjøre på kontoret. Nevn én",
+          "answer": "Skolearbeid og vervarbeid"
+        },
+        {
+          "value": 500,
+          "question": "Hva er romnummeret til kontoret?",
+          "answer": "A4-137"
+        }
+      ]
+    },
+    {
+      "name": "Komiteer #1",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Si tre av standardkomiteene i Online",
+          "answer": "Fagkom, Bedkom, Arrkom, Trikom, Oil, FeminIT, Backlog, Dotkom, Prokom, Appkom"
+        },
+        {
+          "value": 200,
+          "question": "Nevn en nodekomité i Online",
+          "answer": "Velkom, Eksom, Jubkom"
+        },
+        {
+          "value": 300,
+          "question": "Hva kjennetegner en nodekomité?",
+          "answer": "Komiteen er periodebasert"
+        },
+        {
+          "value": 400,
+          "question": "Når/hvor akklameres ny leder til de enkelte komiteene",
+          "answer": "På vårens generalforsamling"
+        },
+        {
+          "value": 500,
+          "question": "Nevn to av de tre medlemmene som er minimumskravet i en komité",
+          "answer": "Leder, Økonomiansvarlig og Tillitsvalgt"
+        }
+      ]
+    },
+    {
+      "name": "Komiteer #2",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Hvilken komité lager Offline?",
+          "answer": "Prokom"
+        },
+        {
+          "value": 200,
+          "question": "Hva er hovedoppgaven til FeminIT?",
+          "answer": "Øke trivselen blant jenter og ikke-binære på informatikk"
+        },
+        {
+          "value": 300,
+          "question": "Hvilken komité har ansvar for utvikling av nettsiden?",
+          "answer": "Dotkom"
+        },
+        {
+          "value": 400,
+          "question": "Hvilken komité sørger for store deler av Onlines inntekt?",
+          "answer": "Bedkom"
+        },
+        {
+          "value": 500,
+          "question": "Hvilken komité er ansvarlig for interessegruppene?",
+          "answer": "Backlog"
+        }
+      ]
+    },
+    {
+      "name": "Arrangementer",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Hva gjør Fagkom?",
+          "answer": "Gjennomfører arrangement med faglig innhold"
+        },
+        {
+          "value": 200,
+          "question": "Nevn to av arrangementene til Arrkom",
+          "answer": "Immball, Åre, julebord, Oktoberfest, quiz..."
+        },
+        {
+          "value": 300,
+          "question": "Nevnt to av arrangementene til Trikom",
+          "answer": "Lunsj lounge, vaffelsteking, isbar, "
+        },
+        {
+          "value": 400,
+          "question": "Hva arrangerer Ekskom?",
+          "answer": "Ekskursjonen for (hovedsakelig) 3.klasse"
+        },
+        {
+          "value": 500,
+          "question": "Hvilke medlemmer består Hovedstyret av?",
+          "answer": "Leder, nestleder, økonomiansvarlig, 3x styremedlemmer"
+        }
+      ]
+    },
+    {
+      "name": "Online",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Hva kjennetegner Online-logoen?",
+          "answer": "En blå sirkel med et lyn"
+        },
+        {
+          "value": 200,
+          "question": "Hva heter nåværende leder av Online?",
+          "answer": "Andrej"
+        },
+        {
+          "value": 300,
+          "question": "Hvor gammel er Online?",
+          "answer": "40 år"
+        },
+        {
+          "value": 400,
+          "question": "Når er Online sitt neste jubileum?",
+          "answer": "2031"
+        },
+        {
+          "value": 500,
+          "question": "Når har Online generalforsamling",
+          "answer": "1x høst og 1x vår"
+        }
+      ]
+    }
+  ]
+}
