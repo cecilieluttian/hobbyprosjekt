@@ -1,18 +1,46 @@
-import "./App.css";
+import { useState } from 'react';
+import './App.css';
+import Board from './components/Board';
+import QuestionCard from './components/QuestionCard';
+import questionsData from './questions.json';
 
 function App() {
+  const [usedCards, setUsedCards] = useState(new Set());
+  const [activeCard, setActiveCard] = useState(null);
+
+  function handleSelectCard(categoryIndex, questionIndex, value) {
+    const { question, answer } =
+      questionsData.categories[categoryIndex].questions[questionIndex];
+    setActiveCard({ categoryIndex, questionIndex, value, question, answer });
+  }
+
+  function handleBackToBoard() {
+    setActiveCard(null);
+  }
+
+  function handleResult() {
+    const cardKey = `${activeCard.categoryIndex}-${activeCard.questionIndex}`;
+
+    const newUsed = new Set(usedCards);
+    newUsed.add(cardKey);
+    setUsedCards(newUsed);
+    setActiveCard(null);
+  }
+
   return (
-    <div className="card">
-      <h1>Velkommen! 👋</h1>
-      <p>
-        Du kan se koden for dette prosjektet{" "}
-        <a href="https://github.com/bekk/prosjektutgangspunkt">
-          i repoet på GitHub
-        </a>
-      </p>
-      <p>
-        Du kan endre koden i <code>src/App.jsx</code>
-      </p>
+    <div className="game-screen">
+      <h1 className="game-title">🎯 Jeopardy</h1>
+      <Board usedCards={usedCards} onSelectCard={handleSelectCard} />
+
+      {activeCard && (
+        <QuestionCard
+          question={activeCard.question}
+          answer={activeCard.answer}
+          value={activeCard.value}
+          onResult={handleResult}
+          onBack={handleBackToBoard}
+        />
+      )}
     </div>
   );
 }
