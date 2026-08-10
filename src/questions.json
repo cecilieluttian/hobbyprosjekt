@@ -31,122 +31,122 @@
       ]
     },
     {
-      "name": "Dyr",
+      "name": "Dumme ting vi har gjort",
       "questions": [
         {
           "value": 100,
-          "question": "Hvilket dyr er dette?",
-          "answer": "Påfugl - påfugl"
+          "question": "Hvem spydde midt på dansegulvet på Heidis? ",
+          "answer": "Simen"
         },
         {
           "value": 200,
-          "question": "Hvilket dyr er dette?",
-          "answer": "Hest - dark horse"
+          "question": "Hvem knakk en tann og mista mobilen sin på byen i helga?",
+          "answer": "Cecilie"
         },
         {
           "value": 300,
-          "question": "Hvilket dyr er dette?",
-          "answer": "Hund - dog days are over"
+          "question": "Hvem har sovnet på en festivaldo?",
+          "answer": "Amalie"
         },
         {
           "value": 400,
-          "question": "Hvilket dyr er dette?",
-          "answer": "Ku - final song av MØ"
+          "question": "Hvem sovna utenfor døra til kjæresten?",
+          "answer": "Haakon"
         },
         {
           "value": 500,
-          "question": "Hvilket dyr er dette?",
-          "answer": "Slange - snakes"
+          "question": "Hvem fikk elektrisk sjokk i sommer?",
+          "answer": "Malin"
         }
       ]
     },
     {
-      "name": "Tall",
+      "name": "Funfacts om fadderne",
       "questions": [
         {
           "value": 100,
-          "question": "Hvilket tall er dette?",
-          "answer": "7 - 7 years"
+          "question": "Hvem har nesten druknet i Frankrike?",
+          "answer": "Benjamin"
         },
         {
           "value": 200,
-          "question": "Hvilket tall er dette?",
-          "answer": "1 - one dance"
+          "question": "Hvem har blitt påkjørt?",
+          "answer": "Simen"
         },
         {
           "value": 300,
-          "question": "Hvilket tall er dette?",
-          "answer": "50 - hvite menn som pusher 50"
+          "question": "Hvem har en egen wikipedia-side?",
+          "answer": "Haakon"
         },
         {
           "value": 400,
-          "question": "Hvilket tall er dette?",
-          "answer": "4 - good 4 you"
+          "question": "Hvem ble årets solstråle på Online sitt julebord i 2025?",
+          "answer": "Benjamin"
         },
         {
           "value": 500,
-          "question": "Hvilket tall er dette?",
-          "answer": "17 - 17 av Veronica Maggio"
+          "question": "Hvem har vært i bryllupet til Martin Ødegaard?",
+          "answer": "Haakon"
         }
       ]
     },
     {
-      "name": "Navn",
+      "name": "Trondheim (ish)",
       "questions": [
         {
           "value": 100,
-          "question": "Hvilket navn er dette",
-          "answer": "Caroline - sweet caroline"
+          "question": "Hvilken by i Norge er kjent for å være bartebyen?",
+          "answer": "Trondheim"
         },
         {
           "value": 200,
-          "question": "Hvilket navn er dette",
-          "answer": "Jolene - jolene av Dolly Parton"
+          "question": "Hvor mange campus har NTNU Trondheim?",
+          "answer": "9"
         },
         {
           "value": 300,
-          "question": "Hvilket navn er dette",
-          "answer": "Alejandro - alejandro av Lady Gaga"
+          "question": "Hva er beste kebabplassen i Trondheim? (subjektivt)",
+          "answer": "Golden star kebab"
         },
         {
           "value": 400,
-          "question": "Hvilket navn er dette",
-          "answer": "Wenche (Foss) - lenge leve"
+          "question": "Hvilket utested har pianobaren?",
+          "answer": "Downtown"
         },
         {
           "value": 500,
-          "question": "Hvilket navn er dette",
-          "answer": "Ophelia - ophelia av the lumineers"
+          "question": "Hva består drinken Hiroshima av? (Tre komponenter)",
+          "answer": "Redbull, absint og jager"
         }
       ]
     },
     {
-      "name": "Kroppsdeler",
+      "name": "Online",
       "questions": [
         {
           "value": 100,
-          "question": "Hvilken kroppsdel er dette?",
-          "answer": "Hender - händerna mot himmelen"
+          "question": "Hva heter bygget Online/informatikk holder til i? ",
+          "answer": "Realfagsbygget"
         },
         {
           "value": 200,
-          "question": "Hvilken kroppsdel er dette?",
-          "answer": "Ansikt - cant feel my face"
+          "question": "Hvilken etasje holder Online/informatikk til?",
+          "answer": "4.etasje"
         },
         {
           "value": 300,
-          "question": "Hvilken kroppsdel er dette?",
-          "answer": "Hode - head will roll"
+          "question": "Hvem vant linjeforeningenes volleyballturnering?",
+          "answer": "Online ofc!!"
         },
         {
           "value": 400,
-          "question": "Hvilken kroppsdel er dette?",
-          "answer": "Titssss - disco tits"
+          "question": "Hva heter leder og nestleder i Velkom (Fadderne som hadde presentasjon)",
+          "answer": "Gleb og Sopika <3"
         },
         {
           "value": 500,
-          "question": "Hvilket familiemedlem er dette?",
-          "answer": "Hjerne - love on the brain"
+          "question": "Hva heter lederen av Online?",
+          "answer": "Andrej <3"
         }
       ]
     }
